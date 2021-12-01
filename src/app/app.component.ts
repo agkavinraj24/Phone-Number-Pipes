@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'phone-Number-Pipes';
+  code:number | undefined;
+  number:any;
 }
